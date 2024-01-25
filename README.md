@@ -1,5 +1,7 @@
 # Estelar Biscuit 
 Check out Letti's amazing art work on [her Instagram page](https://www.instagram.com/estelarbiscuit/)!
+## Project 
+This is going to be a (initially) simple website that shows some of Letti's artwork. Ideas are still coming (it's a learning project).
 
 
 

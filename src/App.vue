@@ -16,11 +16,4 @@
   }
 </script>
 
-<style>
-  p{
-    font-size: 100px;
-  }
-
-
-</style>
 
