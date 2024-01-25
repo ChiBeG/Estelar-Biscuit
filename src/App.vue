@@ -1,9 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <Head />
       <Navigation />
-      <v-btn @click="alterarTema">Alterar tema</v-btn>
     </v-main>
   </v-app>
 </template>
@@ -17,4 +15,12 @@
     theme.global.name.value = theme.global.current.value.dark ? 'light' : 'dark'
   }
 </script>
+
+<style>
+  p{
+    font-size: 100px;
+  }
+
+
+</style>
 
